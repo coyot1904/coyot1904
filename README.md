@@ -14,7 +14,7 @@ A white-label product serving multiple supermarkets in Turkey.
 - Integrated third-party services like Firebase, Apple Sign-In, and Facebook SDK.
 - Challenges tackled: native modules, Fastlane deployment.
 
-### 📱 [Price Catch Game](https://github.com/your-dribbl-quiz-repo](https://apps.apple.com/us/app/price-catch/id6739748307)
+### 📱 [Price Catch Game](https://apps.apple.com/us/app/price-catch/id6739748307)
 A quiz game app. Built and maintained as a full-stack developer.
 - Frontend: React Native
 - Backend: Laravel and MongoDB
